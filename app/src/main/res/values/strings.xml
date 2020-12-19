@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleToDo</string>
+    <string name="gift_from_lulu">Gift from Lulu</string>
+    <string name="gift_list_from_lulu">Gift List from Lulu</string>
+</resources>
